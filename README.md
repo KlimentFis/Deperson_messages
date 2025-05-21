@@ -10,7 +10,7 @@ git clone https://github.com/KlimentFis/Deperson_messages.git && cd Deperson_mes
 ```
 python -m venv venv
 ```
-### Установка виртуального окружения:
+### Активация виртуального окружения:
 ```
 venv\Scripts\activate
 ```
