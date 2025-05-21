@@ -16,7 +16,7 @@ venv\Scripts\activate
 ```
 ### Установка зависимостей:
 ```
-pip install tkinter
+pip install tk
 ```
 ## Использование
 ### Находим нужные сообщения:
