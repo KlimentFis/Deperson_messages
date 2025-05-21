@@ -8,9 +8,9 @@ git clone https://github.com/KlimentFis/Deperson_messages.git && cd Deperson_mes
 ```
 ### Установка виртуального окружения:
 ```
-### python -m venv venv
+python -m venv venv
 ```
-Установка зависимостей:
+### Установка зависимостей:
 ```
 pip install tkinter
 ```
